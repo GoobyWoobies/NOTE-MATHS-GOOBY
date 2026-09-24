@@ -1,13 +1,15 @@
-# Mathématiques : cours complet (ISC, HEIA-FR)
+# Accueil
 
 Bienvenue ! Ce GitBook est un **cours théorique complet** construit à partir des évaluations des années précédentes (tests, travaux écrits et examens) d'**Algèbre linéaire 1** et d'**Analyse 1**. Chaque type de question rencontré dans ces épreuves y est expliqué, méthodé et corrigé.
 
+Auteur : Illan Angel
+
 ## Les deux parties
 
-| Partie | Contenu | Point d'entrée |
-| --- | --- | --- |
-| **Algèbre linéaire 1** | Trigonométrie, oscillations, nombres complexes, vecteurs, produits scalaire/vectoriel/mixte, droites et plans, coordonnées polaires | [Algèbre](Algebre/README.md) |
-| **Analyse 1** | Inéquations, polynômes, fonctions, exponentielles et logarithmes, limites, continuité, dérivées et leurs applications | [Analyse](Analyse/README.md) |
+| Partie                 | Contenu                                                                                                                             | Point d'entrée      |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| **Algèbre linéaire 1** | Trigonométrie, oscillations, nombres complexes, vecteurs, produits scalaire/vectoriel/mixte, droites et plans, coordonnées polaires | [Algèbre](Algebre/) |
+| **Analyse 1**          | Inéquations, polynômes, fonctions, exponentielles et logarithmes, limites, continuité, dérivées et leurs applications               | [Analyse](Analyse/) |
 
 ## Comment utiliser ce cours
 
@@ -24,16 +26,16 @@ flowchart LR
 
 ## Légende
 
-- 🎯 **Objectif** : ce que le chapitre vous apprend à faire, et où cela tombe en examen.
-- 💡 **À retenir** : la règle essentielle, à connaître par cœur.
-- ⚠️ **Attention** : une erreur classique vue dans les copies.
-- Les **indices** des exercices sont repliés : essayez d'abord seul !
+* **Objectif** : ce que le chapitre vous apprend à faire, et où cela tombe en examen.
+* **À retenir** : la règle essentielle, à connaître par cœur.
+* **Attention** : une erreur classique vue dans les copies.
+* Les **indices** des exercices sont repliés : essayez d'abord seul !
 
 ## Notations
 
-- Formules dans le texte : $$f(x) = x^2$$ ; formules centrées :
+* Formules dans le texte : $$f(x) = x^2$$ ; formules centrées :
 
 $$\lim_{x \to 0}\frac{\sin(x)}{x} = 1$$
 
-- Unité imaginaire : $$j$$ (avec $$j^2 = -1$$), comme en électrotechnique.
-- Intervalles à la française : $$]a, b[$$ est ouvert, $$[a, b]$$ est fermé.
+* Unité imaginaire : $$j$$ (avec $$j^2 = -1$$), comme en électrotechnique.
+* Intervalles à la française : $$]a, b[$$ est ouvert, $$[a, b]$$ est fermé.
