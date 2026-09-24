@@ -6,8 +6,8 @@ Bienvenue ! Ces notes reprennent le cours d'**Analyse 1** de façon claire, prog
 
 | Partie | Contenu | Point d'entrée |
 | --- | --- | --- |
-| **Algèbre** | Les « outils de base » : nombres, symboles, puissances, racines, valeur absolue, équations et inéquations | [Algèbre](Algebre/README.md) |
-| **Analyse** | Les fonctions : définition, domaine, parité, puis la trigonométrie | [Analyse](Analyse/README.md) |
+| **Algèbre** | Les « outils de base » : nombres, symboles, puissances, racines, valeur absolue, équations et inéquations | [Algèbre](maths/Algebre/README.md) |
+| **Analyse** | Les fonctions : définition, domaine, parité, puis la trigonométrie | [Analyse](maths/Analyse/README.md) |
 
 ## Comment lire ces pages ?
 
