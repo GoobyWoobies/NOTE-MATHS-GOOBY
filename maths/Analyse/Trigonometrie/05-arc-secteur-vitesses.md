@@ -4,11 +4,11 @@
 
 Pour un cercle de rayon $r$ :
 
-| Grandeur | Formule |
-| --- | --- |
-| Longueur totale (circonférence) | $L_{tot} = 2\pi r$ |
-| Aire totale | $A_{tot} = \pi r^2$ |
-| Angle total | $\angle_{tot} = 2\pi$ |
+| Grandeur                        | Formule                |
+| ------------------------------- | ---------------------- |
+| Longueur totale (circonférence) | $L\_{tot} = 2\pi r$    |
+| Aire totale                     | $A\_{tot} = \pi r^2$   |
+| Angle total                     | $\angle\_{tot} = 2\pi$ |
 
 ## Un morceau de cercle
 
@@ -50,7 +50,7 @@ $$v = r \times \omega$$
 
 Deux roues sont reliées par une courroie (ou en contact) :
 
-![Transmission par courroie entre deux poulies de diamètres d et D](images/transmission.jpeg)
+![Transmission par courroie entre deux poulies de diamètres d et D](../../.gitbook/assets/transmission.jpeg)
 
 **Idée clé** : la courroie avance à la **même vitesse** pour les deux roues. Donc :
 
@@ -66,4 +66,4 @@ De la même façon, la courroie parcourt la **même longueur** sur les deux roue
 
 $$L_1 = L_2 \quad\Rightarrow\quad \alpha_1 \, r_1 = \alpha_2 \, r_2 \quad\Rightarrow\quad \alpha_2 = \alpha_1 \times \frac{r_1}{r_2}$$
 
-> 🎯 **Astuce** : on a 4 grandeurs ($\alpha_1$, $r_1$, $\alpha_2$, $r_2$). Dès qu'on en connaît **3**, on trouve la 4ᵉ avec $\alpha_1 r_1 = \alpha_2 r_2$. Voir les [exercices](11-exercices.md).
+> 🎯 **Astuce** : on a 4 grandeurs ($\alpha\_1$, $r\_1$, $\alpha\_2$, $r\_2$). Dès qu'on en connaît **3**, on trouve la 4ᵉ avec $\alpha\_1 r\_1 = \alpha\_2 r\_2$. Voir les [exercices](11-exercices.md).

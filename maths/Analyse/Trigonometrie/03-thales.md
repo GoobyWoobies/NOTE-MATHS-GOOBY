@@ -6,7 +6,7 @@ Soit un triangle $ABC$ et deux points $D$ sur la droite $(AB)$ et $E$ sur la dro
 
 $$\frac{AD}{AB} = \frac{AE}{AC} = \frac{DE}{BC}$$
 
-![Configuration de Thalès : DE est parallèle à BC](images/thales.png)
+![Configuration de Thalès : DE est parallèle à BC](../../.gitbook/assets/thales.png)
 
 ## Comment le comprendre ?
 

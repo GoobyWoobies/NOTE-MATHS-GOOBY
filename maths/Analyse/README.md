@@ -7,6 +7,6 @@ L'analyse étudie les **fonctions** : comment une quantité dépend d'une autre.
 1. [Généralités sur les fonctions](01-generalites-sur-les-fonctions.md)
 2. [Domaine de définition](02-domaine-de-definition.md)
 3. [Parité d'une fonction](03-parite.md)
-4. [Trigonométrie](Trigonometrie/README.md) : triangles, angles, cercle trigonométrique, sinus et cosinus
+4. [Trigonométrie](Trigonometrie/) : triangles, angles, cercle trigonométrique, sinus et cosinus
 
-> 🔗 **Prérequis** : les chapitres d'[Algèbre](../Algebre/README.md), en particulier les intervalles, la valeur absolue et le tableau des signes.
+> 🔗 **Prérequis** : les chapitres d'[Algèbre](../), en particulier les intervalles, la valeur absolue et le tableau des signes.

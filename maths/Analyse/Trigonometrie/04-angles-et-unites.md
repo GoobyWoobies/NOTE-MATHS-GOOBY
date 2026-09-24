@@ -6,17 +6,17 @@ Un **angle**, c'est l'**écart** entre deux droites (ou demi-droites) qui ont la
 
 ## Les unités
 
-| Unité | Symbole | Tour complet |
-| --- | --- | --- |
-| Degré | $^\circ$ | $360^\circ$ |
-| **Radian** | rad | $2\pi$ rad |
-| Grade (gon) | gon | $400$ gon |
+| Unité       | Symbole  | Tour complet |
+| ----------- | -------- | ------------ |
+| Degré       | $^\circ$ | $360^\circ$  |
+| **Radian**  | rad      | $2\pi$ rad   |
+| Grade (gon) | gon      | $400$ gon    |
 
 $$360^\circ = 2\pi \text{ rad} = 400 \text{ gon}$$
 
 > 💡 **Le radian est l'unité à maîtriser** : c'est celle qu'on utilise en analyse.
 
-![Angles courants en radians et en degrés sur le cercle](images/radians-degres.png)
+![Angles courants en radians et en degrés sur le cercle](../../.gitbook/assets/radians-degres.png)
 
 ## Convertir degrés ↔ radians
 
@@ -26,9 +26,9 @@ $$\text{angle en rad} = \text{angle en }^\circ \times \frac{\pi}{180} \qquad\qqu
 
 ### Valeurs à connaître
 
-| Degrés | $30^\circ$ | $45^\circ$ | $60^\circ$ | $90^\circ$ | $180^\circ$ | $360^\circ$ |
-| --- | --- | --- | --- | --- | --- | --- |
-| Radians | $\dfrac{\pi}{6}$ | $\dfrac{\pi}{4}$ | $\dfrac{\pi}{3}$ | $\dfrac{\pi}{2}$ | $\pi$ | $2\pi$ |
+| Degrés  | $30^\circ$       | $45^\circ$       | $60^\circ$       | $90^\circ$       | $180^\circ$ | $360^\circ$ |
+| ------- | ---------------- | ---------------- | ---------------- | ---------------- | ----------- | ----------- |
+| Radians | $\dfrac{\pi}{6}$ | $\dfrac{\pi}{4}$ | $\dfrac{\pi}{3}$ | $\dfrac{\pi}{2}$ | $\pi$       | $2\pi$      |
 
 ## Degrés, minutes, secondes
 
