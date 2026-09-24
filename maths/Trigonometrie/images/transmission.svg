@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 280" width="440" height="280" font-family="Arial, Helvetica, sans-serif">
+<defs>
+<marker id="fl" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#e03131"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="440" height="280" rx="12" fill="#ffffff"/>
+<!-- courroie -->
+<line x1="102.38" y1="90.73" x2="304.76" y2="51.46" stroke="#495057" stroke-width="3"/>
+<line x1="102.38" y1="169.27" x2="304.76" y2="208.54" stroke="#495057" stroke-width="3"/>
+<!-- roues -->
+<circle cx="110" cy="130" r="40" fill="#d0ebff" stroke="#1971c2" stroke-width="2.5"/>
+<circle cx="320" cy="130" r="80" fill="#ffe8cc" stroke="#f08c00" stroke-width="2.5"/>
+<line x1="110" y1="130" x2="150" y2="130" stroke="#1971c2" stroke-width="2"/>
+<line x1="320" y1="130" x2="400" y2="130" stroke="#f08c00" stroke-width="2"/>
+<circle cx="110" cy="130" r="3" fill="#212529"/>
+<circle cx="320" cy="130" r="3" fill="#212529"/>
+<text x="124" y="124" font-size="14" font-weight="bold" fill="#1971c2">r₁</text>
+<text x="352" y="124" font-size="14" font-weight="bold" fill="#f08c00">r₂</text>
+<!-- vitesse de la courroie -->
+<line x1="170" y1="68" x2="235" y2="55.4" stroke="#e03131" stroke-width="2.5" marker-end="url(#fl)"/>
+<text x="200" y="40" font-size="14" font-weight="bold" fill="#e03131" text-anchor="middle">même v</text>
+<text x="110" y="200" font-size="13" fill="#1971c2" text-anchor="middle">petite roue :</text>
+<text x="110" y="216" font-size="13" fill="#1971c2" text-anchor="middle">ω₁ grand</text>
+<text x="320" y="238" font-size="13" fill="#f08c00" text-anchor="middle">grande roue : ω₂ petit</text>
+<text x="220" y="268" font-size="13" fill="#495057" text-anchor="middle">v = ω₁ · r₁ = ω₂ · r₂</text>
+</svg>

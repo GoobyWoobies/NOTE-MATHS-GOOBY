@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 240" width="480" height="240" font-family="Arial, Helvetica, sans-serif">
+<defs>
+<marker id="fl" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#e03131"/>
+</marker>
+</defs>
+<rect x="0" y="0" width="480" height="240" rx="12" fill="#ffffff"/>
+<!-- angle positif -->
+<line x1="110" y1="120" x2="200" y2="120" stroke="#1971c2" stroke-width="2.5"/>
+<line x1="110" y1="120" x2="65" y2="42.06" stroke="#1971c2" stroke-width="2.5"/>
+<path d="M 180 120 A 70 70 0 0 0 75 59.38" fill="none" stroke="#e03131" stroke-width="3" marker-end="url(#fl)"/>
+<circle cx="110" cy="120" r="3.5" fill="#212529"/>
+<text x="150" y="70" font-size="20" font-weight="bold" fill="#e03131">+</text>
+<text x="135" y="205" font-size="14" fill="#212529" text-anchor="middle">angle positif</text>
+<text x="135" y="223" font-size="13" fill="#495057" text-anchor="middle">sens inverse des aiguilles d'une montre</text>
+<!-- angle negatif -->
+<line x1="350" y1="120" x2="440" y2="120" stroke="#1971c2" stroke-width="2.5"/>
+<line x1="350" y1="120" x2="305" y2="197.94" stroke="#1971c2" stroke-width="2.5"/>
+<path d="M 420 120 A 70 70 0 0 1 315 180.62" fill="none" stroke="#e03131" stroke-width="3" marker-end="url(#fl)"/>
+<circle cx="350" cy="120" r="3.5" fill="#212529"/>
+<text x="392" y="182" font-size="22" font-weight="bold" fill="#e03131">−</text>
+<text x="350" y="40" font-size="14" fill="#212529" text-anchor="middle">angle négatif</text>
+<text x="350" y="58" font-size="13" fill="#495057" text-anchor="middle">sens des aiguilles d'une montre</text>
+</svg>

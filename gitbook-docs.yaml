@@ -1,18 +1,11 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: Physique
+  title: Algèbre linéaire 1
   structure:
     - type: space
-      key: space-1
-      title: Physique
-      path: physique
-      default: true
-      content:
-        directory: null
-    - type: space
       key: space-2
-      title: Maths
+      title: Algèbre linéaire 1
       path: maths
-      draft: true
+      default: true
       content:
         directory: ./maths
