@@ -1,0 +1,18 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Physique
+  structure:
+    - type: space
+      key: space-1
+      title: Physique
+      path: physique
+      default: true
+      content:
+        directory: null
+    - type: space
+      key: space-2
+      title: Maths
+      path: maths
+      draft: true
+      content:
+        directory: ./maths
